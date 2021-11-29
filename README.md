@@ -1,5 +1,8 @@
 # TUM_seminar_quantum_computing
 
+## Presentation :
+
+https://docs.google.com/presentation/d/1-UXEu2y2ZhY58fZrMo6rSO9zcNKF9Nd8saOhTpPr8qE/edit?usp=sharing
 
 ## Bibliographie :
 
